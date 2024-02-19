@@ -1,6 +1,6 @@
-![alt text](<What’s Up! I’m Kerlon A Frontend Developer in making.png>)
-
 <center>
+
+![Banner](<What’s Up! I’m Kerlon A Frontend Developer in making.png>)
 
 ### 🌟 Codificando o futuro em 3D! Programação + Impressão 3D = Inovação! Junte-se a mim nessa jornada de criação e tecnologia!
 
@@ -16,11 +16,10 @@
 
 <center>
 
-## My Knowledge
-
+## Habilidades
 ![My Skills](https://skillicons.dev/icons?i=git,html,css,react,github,js,arduino,figma,raspberrypi&theme=dark)
 
-## Tools
+## Ferramentas
 
 ![My Skills](https://skillicons.dev/icons?i=github,arduino,figma,vscode&theme=dark)
 
