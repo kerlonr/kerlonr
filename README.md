@@ -1,6 +1,6 @@
 <center>
 
-![Banner](https://i.ibb.co/WVd7X7t/What-s-Up-I-m-Kerlon-A-Frontend-Developer-in-making.png)
+![Banner](<What’s Up! I’m Kerlon A Frontend Developer in making.png>)
 
 ### 🌟 Codificando o futuro em 3D! Programação + Impressão 3D = Inovação! Junte-se a mim nessa jornada de criação e tecnologia!
 
@@ -14,9 +14,8 @@
 ![Kerlon Fav Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerlonr&layout=compact&theme=radical)
 ![Kerlon Streak](https://github-readme-streak-stats.herokuapp.com/?user=kerlonr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0)
 
-<center>
-
 ## Habilidades
+
 ![My Skills](https://skillicons.dev/icons?i=git,html,css,react,github,js,arduino,figma,raspberrypi&theme=dark)
 
 ## Ferramentas
@@ -24,4 +23,5 @@
 ![My Skills](https://skillicons.dev/icons?i=github,arduino,figma,vscode&theme=dark)
 
 ---
+
 </center>
