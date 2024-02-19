@@ -1,6 +1,6 @@
 <center>
 
-![Banner](<What’s Up! I’m Kerlon A Frontend Developer in making.png>)
+![Banner](https://i.ibb.co/WVd7X7t/What-s-Up-I-m-Kerlon-A-Frontend-Developer-in-making.png)
 
 ### 🌟 Codificando o futuro em 3D! Programação + Impressão 3D = Inovação! Junte-se a mim nessa jornada de criação e tecnologia!
 
