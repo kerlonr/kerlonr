@@ -24,3 +24,4 @@
 ![My Skills](https://skillicons.dev/icons?i=github,arduino,figma,vscode&theme=dark)
 
 ---
+</center>
