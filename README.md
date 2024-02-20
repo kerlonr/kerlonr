@@ -11,9 +11,9 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=kerlonr&show_icons=true&theme=radical" href="" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlonr&layout=compact&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kerlonr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerlonr&show_icons=true&theme=radical" href="" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlonr&layout=compact&theme=radical" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kerlonr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 
 <h2>Habilidades</h2>
 
@@ -23,4 +23,5 @@
 
 <img src="https://skillicons.dev/icons?i=github,arduino,figma,vscode&theme=dark" />
 </center>
+
 ---
