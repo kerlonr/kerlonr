@@ -1,8 +1,11 @@
 <center>
 
-![Banner](<imagens/What’s Up! I’m Kerlon A Frontend Developer in making.png>)
+![Banner](imagens/header_.png)
 
-### 🌟 Codificando o futuro em 3D! Programação + Impressão 3D = Inovação! Junte-se a mim nessa jornada de criação e tecnologia!
+# What's Up! I'm Kerlon 🖖
+
+
+### 🌟 A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kerlonn.r?igshid=Mzc0YWU1OWY%3D)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerlon-ribeiro-992856285/)
