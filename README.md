@@ -15,11 +15,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlonr&layout=compact&theme=radical" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kerlonr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 
-<h2>Habilidades</h2>
+<h2>Knowledge</h2>
 
 <img src="https://skillicons.dev/icons?i=git,html,css,react,github,js,arduino,figma,raspberrypi&theme=dark" />
 
-<h2>Ferramentas</h2>
+<h2>My Tools</h2>
 
 <img src="https://skillicons.dev/icons?i=github,arduino,figma,vscode&theme=dark" />
 </div>
