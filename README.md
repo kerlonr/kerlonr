@@ -18,8 +18,6 @@
 <h2>Knowledge</h2>
 
 <img src="https://skillicons.dev/icons?i=git,html,css,react,github,js,arduino,figma,raspberrypi&theme=dark" />
-<img src="https://raw.githubusercontent.com/thalesgmartins/icons/main/languages/arduino-language.svg" />
-<img src="https://raw.githubusercontent.com/thalesgmartins/icons/main/apps/fusion360.svg" />
 
 <h2>My Tools</h2>
 
