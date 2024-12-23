@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1> What's Up! I'm Kerlon 🖖
-<h3> 🌟 A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product!
+<h3> 🌟 An IoT enthusiast and automation trainee with a passion for innovative solutions, seamlessly integrating 3D printing technology to drive cutting-edge advancements.
 
 ---
 
