@@ -13,7 +13,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerlonr&show_icons=true&theme=radical" href="" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlonr&layout=compact&theme=radical" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kerlonr&theme=radical)](https://git.io/streak-stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kerlonr&theme=radical" />
 
 <h2>Knowledge</h2>
 
