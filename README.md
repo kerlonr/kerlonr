@@ -13,7 +13,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerlonr&show_icons=true&theme=radical" href="" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlonr&layout=compact&theme=radical" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kerlonr&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=55%2C000000%2C5C5C5CB6" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kerlonr&theme=radical)](https://git.io/streak-stats" />
 
 <h2>Knowledge</h2>
 
