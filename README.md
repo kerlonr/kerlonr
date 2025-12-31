@@ -1,8 +1,6 @@
 <div align="center">
 <!-- <img src="bottom_header.svg" style="transform: rotate(180deg);"> -->
 
-<img src="ascii-art.png" style="width: 350px"/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=700&size=40&duration=2000&pause=1000&color=799EEB&center=true&width=435&height=80&lines=IM+KERLON;AN+INNOVATOR;3D+MAKER;IOT+DEV;FULLSTACK+DEV" alt="Typing SVG" /></a>
 
 <details>
