@@ -1,5 +1,5 @@
 <div align="center">
-<img src="bottom_header.svg" style="transform: rotate(180deg);">
+<!-- <img src="bottom_header.svg" style="transform: rotate(180deg);"> -->
 
 <img src="ascii-art.png" style="width: 350px"/>
 
